@@ -1,10 +1,12 @@
 ---
 title: 【Git入門】チーム開発で必須なGit！基本の使い方を中学生でもわかるように書いてみた！
 tags:
-  - ['Git','GitHub','チーム開発']
+  - Git
+  - GitHub
+  - チーム開発
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-02-06T19:12:05+09:00'
+id: 63594ce2b6123da7e52e
 organization_url_name: null
 slide: false
 ignorePublish: false
