@@ -4,6 +4,8 @@ tags:
   - Git
   - GitHub
   - チーム開発
+  - 初心者
+  - 駆け出しエンジニア
 private: false
 updated_at: '2024-02-06T19:12:05+09:00'
 id: 63594ce2b6123da7e52e
