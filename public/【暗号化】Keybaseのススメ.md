@@ -6,12 +6,12 @@ tags:
   - "Keybase"
   - "暗号化"
   - "PGP" # タグ（ブロックスタイルで複数タグを追加できます）
-private: false # true: 限定共有記事 / false: 公開記事
+private: true # true: 限定共有記事 / false: 公開記事
 updated_at: "" # 記事を投稿した際に自動的に記事の更新日時に変わります
 id: null # 記事を投稿した際に自動的に記事のUUIDに変わります
 organization_url_name: "nnn-school" # 関連付けるOrganizationのURL名
 slide: false # true: スライドモードON / false: スライドモードOFF
-ignorePublish: true # true: `publish`コマンドにおいて無視されます（Qiitaに投稿されません） / false: `publish`コマンドで処理されます（Qiitaに投稿されます）
+ignorePublish: false # true: `publish`コマンドにおいて無視されます（Qiitaに投稿されません） / false: `publish`コマンドで処理されます（Qiitaに投稿されます）
 ---
 
 というわけでこんにちは。
@@ -49,7 +49,7 @@ S高等学校4期生のあかつきゆいとです。
 
 ※E2EEに関しては、こちらの記事をご覧ください。
 
-TODO:記事のURL挿入
+https://qiita.com/yuito_it_/items/d7b88056b8ba53b25501
 
 ## 使い方
 
@@ -66,7 +66,7 @@ TODO:記事のURL挿入
 
 めんどくさかったら、2を選べばいいでしょう。暗号化の仕組みをガッツリ勉強したくば、1をやったほうがいいとは思いますが。
 
-### Keybaseのインストール
+### Keybaseとかのインストール
 
 どちらにせよ、インストールしなければなりません。
 以下の2つのソフトウェアをインストールしましょう。
@@ -79,6 +79,13 @@ TODO:記事のURL挿入
 
 Linuxの人は自分でわかると思うので割愛します。自分でなんとかしてくれ。
 
+### Keybaseアカウントの作成
+
+[keybase](https://keybase.io)で、アカウントを作成してください。
+それから、アプリでログインした方がいいと思います。
+
+ちなみに、アカウント名は後から変更できず、削除しても、そのアカウント名は誰も使えない状態になったままなので、 **よく考えて** 作ってください。
+
 ### 自分で鍵を生成する
 
 自分で鍵を生成する。
@@ -86,7 +93,7 @@ Linuxの人は自分でわかると思うので割愛します。自分でなん
 
 鍵生成に関しては、こちら下の記事を読んでもらいましょう。
 
-TODO: 記事URL挿入
+https://qiita.com/shun-shobon/items/a944416bebb6207016fb#gnupg%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E4%BF%9D%E5%AD%98%E5%A0%B4%E6%89%80
 
 では、お次に鍵の取り込みです。
 
@@ -168,5 +175,7 @@ $ gpg --export-secret-keys お好きな鍵のID
 ## まとめ
 
 基本的な使い方は以上です。
+
+アカウント作成をするのは完全削除できないので忍びないと思い、やりませんでした。故に、新規作成とかのところが結構雑ですが、許してください。hi.
 
 Let's enjoy Keybase Life!!!
