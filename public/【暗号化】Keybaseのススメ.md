@@ -1,17 +1,17 @@
 ---
-title: 【暗号化】Keybaseのススメ # 記事のタイトル
+title: 【暗号化】Keybaseのススメ
 tags:
-  - "セキュリティ"
-  - "E2EE"
-  - "Keybase"
-  - "暗号化"
-  - "PGP" # タグ（ブロックスタイルで複数タグを追加できます）
-private: true # true: 限定共有記事 / false: 公開記事
-updated_at: "" # 記事を投稿した際に自動的に記事の更新日時に変わります
-id: null # 記事を投稿した際に自動的に記事のUUIDに変わります
-organization_url_name: null # 関連付けるOrganizationのURL名
-slide: false # true: スライドモードON / false: スライドモードOFF
-ignorePublish: false # true: `publish`コマンドにおいて無視されます（Qiitaに投稿されません） / false: `publish`コマンドで処理されます（Qiitaに投稿されます）
+  - Security
+  - PGP
+  - 暗号化
+  - Keybase
+  - E2EE
+private: true
+updated_at: '2024-05-02T23:46:33+09:00'
+id: 01bd224557fdfb87241d
+organization_url_name: null
+slide: false
+ignorePublish: false
 ---
 
 というわけでこんにちは。
