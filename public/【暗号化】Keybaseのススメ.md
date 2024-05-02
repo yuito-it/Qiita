@@ -9,7 +9,7 @@ tags:
 private: true
 updated_at: '2024-05-02T23:46:33+09:00'
 id: 01bd224557fdfb87241d
-organization_url_name: null
+organization_url_name: "nnn-school"
 slide: false
 ignorePublish: false
 ---
