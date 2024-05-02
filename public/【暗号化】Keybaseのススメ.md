@@ -7,9 +7,9 @@ tags:
   - Keybase
   - E2EE
 private: false
-updated_at: '2024-05-02T23:46:33+09:00'
+updated_at: '2024-05-02T23:52:33+09:00'
 id: 01bd224557fdfb87241d
-organization_url_name: "nnn-school"
+organization_url_name: nnn-school
 slide: false
 ignorePublish: false
 ---
