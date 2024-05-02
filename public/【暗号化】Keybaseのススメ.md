@@ -6,7 +6,7 @@ tags:
   - 暗号化
   - Keybase
   - E2EE
-private: true
+private: false
 updated_at: '2024-05-02T23:46:33+09:00'
 id: 01bd224557fdfb87241d
 organization_url_name: "nnn-school"
