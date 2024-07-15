@@ -1,14 +1,14 @@
 ---
 title: 【k8s】GitOps構築してsecret managementもした話 〜ArgoCD編〜
 tags:
-  - 'ArgoCD'
-  - 'k8s'
-  - 'CICD'
-  - 'GitOps'
-  - 'Security'
+  - Security
+  - kubernetes
+  - CICD
+  - GitOps
+  - ArgoCD
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-07-15T16:41:46+09:00'
+id: ed03e5405850c0f1d76f
 organization_url_name: null
 slide: false
 ignorePublish: false
